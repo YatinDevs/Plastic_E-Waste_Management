@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba86f103.chunk.css",
+    "main.js": "/static/js/main.46f07686.chunk.js",
+    "main.js.map": "/static/js/main.46f07686.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.27298ff9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.27298ff9.js.map",
+    "static/css/2.19a1d5ae.chunk.css": "/static/css/2.19a1d5ae.chunk.css",
+    "static/js/2.381d34f8.chunk.js": "/static/js/2.381d34f8.chunk.js",
+    "static/js/2.381d34f8.chunk.js.map": "/static/js/2.381d34f8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.19a1d5ae.chunk.css.map": "/static/css/2.19a1d5ae.chunk.css.map",
+    "static/css/main.ba86f103.chunk.css.map": "/static/css/main.ba86f103.chunk.css.map",
+    "static/js/2.381d34f8.chunk.js.LICENSE.txt": "/static/js/2.381d34f8.chunk.js.LICENSE.txt",
+    "static/media/Mumbai.9e2e9f36.jpg": "/static/media/Mumbai.9e2e9f36.jpg",
+    "static/media/banglore.1d837109.jpg": "/static/media/banglore.1d837109.jpg",
+    "static/media/home.css": "/static/media/bg.4749f30e.jpeg",
+    "static/media/blog1.258994c9.jpg": "/static/media/blog1.258994c9.jpg",
+    "static/media/blog2.98b04fdd.jpg": "/static/media/blog2.98b04fdd.jpg",
+    "static/media/hyderbad.b6202626.jpg": "/static/media/hyderbad.b6202626.jpg",
+    "static/media/login.css": "/static/media/login-bg.5625b442.jpg",
+    "static/media/login.b6920e8b.jpg": "/static/media/login.b6920e8b.jpg",
+    "static/media/pune.48737df1.png": "/static/media/pune.48737df1.png",
+    "static/media/register.css": "/static/media/register.308c0f82.jpg",
+    "static/media/swatcha.4d81ff6d.jpeg": "/static/media/swatcha.4d81ff6d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27298ff9.js",
+    "static/css/2.19a1d5ae.chunk.css",
+    "static/js/2.381d34f8.chunk.js",
+    "static/css/main.ba86f103.chunk.css",
+    "static/js/main.46f07686.chunk.js"
+  ]
+}
